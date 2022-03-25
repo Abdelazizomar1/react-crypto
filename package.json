@@ -1,8 +1,9 @@
 {
-  "homepage": "https://abdelazizomar1.github.io/react-crypto",
+  
   "name": "jac",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://abdelazizomar1.github.io/react-crypto",
   "dependencies": {
     "@emotion/react": "^11.8.2",
     "@emotion/styled": "^11.8.1",
